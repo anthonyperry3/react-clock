@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.js": "/react-clock/static/js/main.81a6edab.js",
+    "static/js/787.c4b2805e.chunk.js": "/react-clock/static/js/787.c4b2805e.chunk.js",
+    "index.html": "/react-clock/index.html",
+    "main.81a6edab.js.map": "/react-clock/static/js/main.81a6edab.js.map",
+    "787.c4b2805e.chunk.js.map": "/react-clock/static/js/787.c4b2805e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.81a6edab.js"
+  ]
+}
